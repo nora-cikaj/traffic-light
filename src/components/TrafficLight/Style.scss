@@ -1,0 +1,13 @@
+.traffic-light {
+  width: 3rem;
+  height: 10rem;
+  background-color: #000;
+  border-radius: 16px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+@import "./components/Light/Style.scss";
